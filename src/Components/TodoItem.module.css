@@ -1,0 +1,7 @@
+.item {
+  border: 2.5px solid red;
+  font-size: 30px;
+  padding: 5px;
+  border-radius: 9px;
+  margin: 10px;
+}
